@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Backend:** PHP 7/8, CodeIgniter, Laravel (em estudo), Node.js (Express), REST APIs  
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Next.js, TailwindCSS  
+- **Backend:** PHP 7, CodeIgniter; --> Em estudo: Laravel, Node.js (Express), REST APIs  
+- **Frontend:** HTML, CSS. --> Em estudo: React, Next.js,   
 - **Banco de Dados:** MySQL, MariaDB, PostgreSQL  
-- **DevOps:** Git, GitHub Actions, Docker (básico), CI/CD  
-- **Outros:** Boas práticas (SOLID, Clean Code), versionamento, testes  
+- **DevOps:** Git, GitHub
+- **Outros:** Boas práticas (Clean Code), versionamento  
 
 ---
 
