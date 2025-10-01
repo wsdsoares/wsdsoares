@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Willian Soares Damasceno  
 
-💻 **Desenvolvedor Full-Stack em evolução** | Diretor de TI - Prefeitura de Itamarandiba  
+💻 **Desenvolvedor Full-Stack em evolução** | Diretor de TI - Prefeitura de Itamarandiba - MG 
 
 ---
 
